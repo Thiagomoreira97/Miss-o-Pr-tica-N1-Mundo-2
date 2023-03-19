@@ -1,0 +1,23 @@
+footer {
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+main {
+  
+    overflow-y: auto;
+    height: calc(100vh - 100px);
+}
+
+header {
+    border-bottom: 0.5px solid gray;
+}
+.container {
+    padding: 30px;
+}
+
+.centralizar {
+    padding: 30px;
+}
